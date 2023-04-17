@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este es un repositorio de prueba del modulo2 del prepcourse de henry
+Modificamos el texto desde el escritorio local despues de clonarlo desde github
